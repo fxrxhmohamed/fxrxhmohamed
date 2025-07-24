@@ -52,8 +52,6 @@
 
 <img src="https://raw.githubusercontent.com/fxrxhmohamed/fxrxhmohamed/output/snake.svg" alt="Snake animation" />
 
-![Snake animation](https://raw.githubusercontent.com/fxrxhmohamed/fxrxhmohamed/output/snake.svg)
-
 
 
 ####
