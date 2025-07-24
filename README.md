@@ -1,7 +1,7 @@
 <h2 align="left">Hi There👋 I am Farah Mohamed !</h2><br><h4>I'm a passionate Computer Science & AI Senior at Cairo University, driven by curiosity and a desire to solve real-world challenges through code, intelligent systems, and clean design.<br>💡 With hands-on experience across full-stack development, machine learning, data engineering, and web app development, I love building smart, user-focused solutions that bridge innovation with impact. From designing data warehouses and churn prediction models to creating immersive Websites and AI-powered tools I’ve built projects that blend tech with real-world usability.</h4><br>
 <h2 align="left">Tech Stack</h2><br>
 
-###
+####
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+####
 <br>
 <h2 align="left">Contact Me</h2>
 <br>
@@ -45,7 +45,7 @@
   </a>
 </div>
 
-###
+####
 
 
 <br clear="both">
@@ -53,4 +53,4 @@
 <img src="https://raw.githubusercontent.com/fxrxhmohamed/fxrxhmohamed/output/snake.svg" alt="Snake animation" />
 
 
-###
+####
