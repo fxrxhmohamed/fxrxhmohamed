@@ -52,6 +52,6 @@
 
 
 
-![snake gif](https://github.com/fxrxhmohamed/fxrxhmohamed/blob/output/github-contribution-grid-snake.gif)
+<img src="https://fxrxhmohamed.github.io/github-contribution-grid-snake.svg" />
 
 ####
