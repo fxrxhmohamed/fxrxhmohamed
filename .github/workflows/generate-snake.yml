@@ -6,7 +6,8 @@ on:
   workflow_dispatch:     # allows manual trigger
 
 permissions:
-contents: write
+  contents: write
+
 
 jobs:
   generate:
