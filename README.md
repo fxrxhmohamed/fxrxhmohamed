@@ -51,7 +51,4 @@
 <br clear="both">
 
 
-
-<img src="https://fxrxhmohamed.github.io/github-contribution-grid-snake.svg" />
-
 ####
